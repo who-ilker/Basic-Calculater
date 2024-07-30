@@ -7,7 +7,7 @@ public class Main {
         double n1, n2;
         int option;
 
-        System.out.println("Toplam (1) | Çıkarma (2) | Multiple (3) | Extract (4)");
+        System.out.println(" (+)Sum (1) | (-)Subtraction (2) | (*)Multiplication (3) | (/)Division (4) ");
         System.out.print("Which option do you want to do? : ");
         option = inp.nextInt();
         System.out.print("Number 1: ");
